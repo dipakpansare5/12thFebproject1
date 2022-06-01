@@ -20,7 +20,7 @@ import org.testng.annotations.Parameters;
 import com.SauceDemo.POMClasses.HomePagePOMClass;
 import com.SauceDemo.POMClasses.LoginPagePOMClass;
 
-@Listeners(com.SauceDemo.UtilityClasses.Listners.class)
+//@Listeners(com.SauceDemo.UtilityClasses.Listners.class)
 public class TestBaseClass 
 {
 	public WebDriver driver;
